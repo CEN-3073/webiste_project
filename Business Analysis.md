@@ -10,6 +10,7 @@ Domain Name - Connection Crafts
   - Ability to create an account
  - Website would allow the client to show of their products in order to bring attention to their crafts. On the webiste there will be the ability to see the range of crafts made, as well as the prices for the said products. Website would also store the information of users who are buying products.
 ## 3. Overview 
+
 ## 4. Defintions
 N/A
 ## 5. Major Stakeholders
