@@ -1,4 +1,4 @@
 # website_project
 CollectCrafts Website
 ------
-Sellings Crafts to create bonds
+Sellings Crafts to Create Bonds
