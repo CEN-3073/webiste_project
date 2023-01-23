@@ -1,2 +1,4 @@
-# webiste_project
-Website to display products and be able to sell
+# website_project
+CollectCrafts Website
+------
+Sellings Crafts to create bonds
