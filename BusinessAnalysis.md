@@ -54,3 +54,36 @@ During the holidays, products get bought more often and are expected to be deliv
 Considering the business is located in SWFL, if there were to be a hurricane, website would send out notification letting customers know that customers whose orders were before news of the hurricane would have priority over the ones that were not. Customers with accounts would be prioritized over guest accounts and purchases.
 ##  6. Business strcuture 
 Since this is a new business, the client's role would be to creator of the products, photographer, and in charge of completing orders. As the developer, I would be in charge of maintaining the website, keeping up with the database, and uploading product pictures. As the business grows, things would change.
+# 5. Preliminary operational concept of proposed system
+
+##  5.1 Preliminary operational concept
+
+###      a) operational policies and constraints;
+
+###      b) description of the proposed system;
+
+###      c) modes of system operation;
+  
+###      d) user classes and other involved personnel; and
+
+###      e) support environment.
+
+##  5.2 Preliminary operational scenarios
+
+# 6. Other preliminary life-cycle concepts
+
+##  6.1 Preliminary acquisition concept
+
+##  6.2 Preliminary deployment concept
+
+##  6.3 Preliminary support concept
+
+##  6.4 Preliminary retirement concept
+
+# 7. Project Constraints
+
+# 8. Appendix
+
+##  8.1 Acronyms and abbreviations
+
+ 
