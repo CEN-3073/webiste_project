@@ -58,30 +58,39 @@ Since this is a new business, the client's role would be to creator of the produ
 
 ##  5.1 Preliminary operational concept
 
-###      a) operational policies and constraints;
+###      a) operational policies and constraints
+Privacy Policy - Accepting the terms of use of the website, which states that you have to be at least 18 years old to use the webiste or if younger under adult supervision. Also states that you cannot try to re-sell the company's products on anothjer website because they own that property. Infomration collected when a product is bought will be used to send thee product to the buyer and will not be given out to another person. Putting the best effort in giving the customers a great experince when shopping with CollectionCraft.
 
-###      b) description of the proposed system;
+Shipping Policy - We will send an email to the buyer letting them know whenever the order is ready to go and be shipped out. In that email information will be given to customer letting them know estimated delivery and order number so that they can track their order through mail provider like UPS.
 
-###      c) modes of system operation;
-  
-###      d) user classes and other involved personnel; and
-
-###      e) support environment.
+Refunds and Returns - After order is delivered customers have a week to return product to email business for a refund, which will ask for reason and try to accomadate to the customer. If a week has passed they will not be given a full refund. 
+###      b) description of the proposed system
+The proposed system will allow for the company to display its products in order for them to be sold. It will also allow users to shop around the website and add things to their cart in order to buy them. Through that function the user will be able to sumbit their information. The proposed system will have a built-in database that holds the information of its users, if they are buying a product, including their contact inforamtion, payment information, and destination information. 
+###      c) modes of system operation
+Different modes of operating systems such as Chrome, Firefox, Safari, and Microsoft Edge.
+###      d) user classes and other involved personnel
+The user classes will be split into two main roles. The user and the admin, the user will use the website as intended, which is being able to look around the website seeing the many types of prducts the company is selling, being able to add those items to a cart and then entering the information to buy the products. The admin role will be able to see things such as how active the website is, they will be able to access the database to see the information entered by users, and be able to add products to the website. 
+###      e) support environment
 
 ##  5.2 Preliminary operational scenarios
+Users will be able to go onto the webiste and be able to navigate to diffrent pages such as the home page, product page, and about us page. The user will be able to see the different products that are being sold, learn more about them, and then choose if they want to go back to previous page or add it to the cart. If the user has items in their cart, they will be able to start the process to buy the products.
+
+Operators/Business Owner will be go onto the webiste and be able to check how many users have been on the webiste, they will also be able to access the database that holds the information of users who are buying products, with this owner can start shipping products.
+
+Maintenance will check that the website is running smoothly and that there are no bugs with links or on the overall display of pages.
 
 # 6. Other preliminary life-cycle concepts
 
 ##  6.1 Preliminary acquisition concept
-
+The system solution will be aquired through the completion of the project. The project will meet the business purpose, in which the owner wants to be able to sell their products to custosmers in order to create bonds within families. The business will be able to display the current products being sold by CollectionCraft, The business will allow for users to add buy products and enter their information, which that inforrmation will be saved into the database. Allowing for the owner to send to orders to its users. 
 ##  6.2 Preliminary deployment concept
-
+Once the website is ready to be deployed and requirements where met, it will go be shared with people close to the business owner so that they can test the website and report if there are any bugs or if something is off. Then the website will be given the green light, which means they will look for a company to host the wesbite so that it constantly stays online. Lastly the website will be advertised on different social media platforms to gather an audience.
 ##  6.3 Preliminary support concept
-
+Once the webiste is deployed there should be a team made, whose main job is keeping the webiste up to date and performing maintenance. They will be in charge of keeping up with the OS, making sure there are no problems. This team will be made under the company and will be employess for them. As the business gets biggger there will be a need for certain parts of the business to grow for example, production will have to grow into a team instead of a one man person, because they would need to keep up with the orders. Other things like the need for supplies and shipping will have their own teams built around them. 
 ##  6.4 Preliminary retirement concept
-
+Once the business decides that they have completed their vision and have decided to retire, they will send out an email to all previous cusotmers letting them know about the ending of the business. There will be final sellinng of products then the company hosting the website wil be notified that this website will no longer be up and running and social media platforms will be deleted. 
 # 7. Project Constraints
-
+There will be many project constraints. First since the business is new and doesn't have an audience, they will be working with a small budget so a lot of things will be coming out of pocket instead of the business paying for itself. So there will be money constraints, but once the buisness grows an audience it will lessen. Time constraints shouldn't be a problem unless there is a weather emergency since the business is located in SWFL, production could slow down. 
 # 8. Appendix
 
 ##  8.1 Acronyms and abbreviations
